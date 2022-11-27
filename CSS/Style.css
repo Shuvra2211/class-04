@@ -1,0 +1,152 @@
+body{
+    font-family: 'EB Garamond', serif;
+}
+
+
+
+
+.h1{
+    color: blue;
+    background-color: aqua;
+    width: 51%;
+}
+
+.p1{
+    background-color: lightgreen;
+    font-size: 20px;
+    width: 9%;
+}
+
+.p2{
+    background-color: yellow;
+    width: 27%;
+}
+
+
+.p3{
+    width: 45%;
+    background-color: bisque;
+    font-family: 'Crimson Text', serif;
+    font-family: 600px;
+
+}
+
+
+
+.p4{
+    color: rgb(192, 93, 11);
+    font-size: 35px;
+    text-align: justify;
+    line-height: 50px;
+    word-spacing: 5px;
+    letter-spacing: 2px;
+    background-image: url(../img/images.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: 100% center;
+    background-attachment: fixed;
+}
+
+
+
+
+
+.p5{
+    background-color: rgb(10, 134, 10);
+    font-size: 20px;
+    width: 9%;
+    text-align: center;
+}
+
+
+
+.p6{
+    color: black;
+    background-color: aqua;
+    width: 51%;
+    font-size: 40px;
+}
+
+
+
+.p7{
+    background-color: rgb(31, 219, 163);
+    font-size: 20px;
+    width: 9%;
+}
+
+
+
+
+.p8{
+    background-color: yellow;
+    width: 27%;
+}
+
+
+
+
+
+.p9{
+    color: yellow;
+    font-size: 70px;
+    text-align: justify;
+    line-height: 52px;
+    background-image: url(../img/n.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: 100% center;
+    background-attachment: fixed;
+
+}
+
+
+
+
+.div1{
+    color: black;
+    font-size: 40px;
+    text-align: justify;
+    line-height: 52px;
+    word-spacing:2px ;
+    letter-spacing: 2px;
+    background-image: url(../img/china-flag.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: 100% center;
+    background-attachment: fixed;
+}
+
+
+
+
+.div2{
+    color: black;
+    font-size: 40px;
+    text-align: justify;
+    line-height: 52px;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    background-color: aqua
+}
+
+
+
+
+
+.div3{
+    color: yellow;
+    font-size: 40px;
+    text-align: justify;
+    line-height: 52px;
+    word-spacing: 2px;
+    letter-spacing: 2px;
+    background-color: blue;
+}
+
+
+
+.ancore1{
+    color: black;
+}
+
